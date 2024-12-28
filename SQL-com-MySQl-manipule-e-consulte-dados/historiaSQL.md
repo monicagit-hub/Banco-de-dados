@@ -1,4 +1,5 @@
-Resumo por parágrafo:
+Resumo SQL:
+
 1. Criação do SQL: O SQL surgiu nos anos 70 como resultado do projeto System R da IBM, com o objetivo de implementar o modelo relacional proposto por Codd.
 
 2. Necessidade de uma nova linguagem: A necessidade de uma linguagem como o SQL surgiu com o advento dos bancos de dados relacionais, que permitiam relacionar dados entre diferentes tabelas.
