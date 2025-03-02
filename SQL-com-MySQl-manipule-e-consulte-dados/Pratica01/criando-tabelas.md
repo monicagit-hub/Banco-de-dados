@@ -67,6 +67,7 @@ CREATE TABLE tbprodutos (
   produto VARCHAR(20) NULL,
   nome VARCHAR(150) NULL,
   embalagem VARCHAR(50) NULL,
+  sabor VARCHAR(50) NULL,
   tamanho VARCHAR(50) NULL,
   preco_lista FLOAT NULL
 );
@@ -75,6 +76,7 @@ CREATE TABLE tbprodutos (
 PRODUTO: VARCHAR(20) – Código ou identificador do produto.<br>
 NOME: VARCHAR(150) – Nome completo do produto.<br>
 EMBALAGEM: VARCHAR(50) – Tipo de embalagem, como "Caixa" ou "Garrafa".<br>
+SABOR: VARCHAR(50) – Tipo de sabor, como "uva" ou "Melância".<br>
 TAMANHO: VARCHAR(50) – Volume ou tamanho do produto, como "1L" ou "500ml".<br>
 PRECO_LISTA: FLOAT – Preço oficial do produto, usado para cálculos.<br>
 
